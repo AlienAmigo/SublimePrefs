@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"1337 Color Scheme",
+		"3024 Color Scheme",
+		"AutoFileName",
+		"Autoprefixer",
+		"EditorConfig",
+		"EditorConfigSnippets",
+		"Emmet",
+		"ExtendScript",
+		"FileOpTabContextMenu",
+		"Jade",
+		"JSX",
+		"Nodejs",
+		"Package Control",
+		"Pue Syntax Highlight",
+		"Pug",
+		"Run In InDesign",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-pug-lint",
+		"SublimeLinter-jsxhint",
+		"Sync Settings",
+		"Theme - Argonaut",
+		"Theme - Praxis"
+	]
+}

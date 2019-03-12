@@ -7,7 +7,6 @@
 	[
 		"10% Too Dull for My Tastes Color Scheme",
 		"1337 Color Scheme",
-		"3024 Color Scheme",
 		"AutoFileName",
 		"Autoprefixer",
 		"Colorsublime",
@@ -17,7 +16,6 @@
 		"ExtendScript",
 		"FileOpTabContextMenu",
 		"Jade",
-		"JSX",
 		"Nodejs",
 		"Package Control",
 		"PlainNotes",
@@ -26,6 +24,7 @@
 		"Run In InDesign",
 		"SCSS",
 		"SideBarEnhancements",
+		"Simple JSX",
 		"SublimeLinter-contrib-pug-lint",
 		"SublimeLinter-jsxhint",
 		"Sync Settings",

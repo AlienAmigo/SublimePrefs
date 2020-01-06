@@ -1,8 +1,13 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+<<<<<<< HEAD
 	"default_line_ending": "unix",
 	"fallback_encoding": "UTF-8",
 	"font_size": 12,
+=======
+	"fallback_encoding": "UTF-8",
+	"font_size": 13,
+>>>>>>> 47f6413224ae5c4261bd17e6ac396f44b79ce9a6
 	"ignored_packages":
 	[
 		"Vintage"
@@ -12,6 +17,10 @@
 	"show_encoding": true,
 	"tab_size": 2,
 	"theme": "Adaptive.sublime-theme",
+<<<<<<< HEAD
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
+=======
+	"translate_tabs_to_spaces": true
+>>>>>>> 47f6413224ae5c4261bd17e6ac396f44b79ce9a6
 }

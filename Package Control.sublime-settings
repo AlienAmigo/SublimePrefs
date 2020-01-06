@@ -10,7 +10,10 @@
 		"3024 Color Scheme",
 		"AutoFileName",
 		"Autoprefixer",
+<<<<<<< HEAD
 		"Color Highlight",
+=======
+>>>>>>> 47f6413224ae5c4261bd17e6ac396f44b79ce9a6
 		"Colorsublime",
 		"EditorConfig",
 		"EditorConfigSnippets",
@@ -25,12 +28,20 @@
 		"Pue Syntax Highlight",
 		"Pug",
 		"Run In InDesign",
+<<<<<<< HEAD
 		"Sass",
 		"SCSS",
 		"SideBarEnhancements",
 		"Simple JSX",
 		"SublimeLinter-jsxhint",
 		"SublimeLinter-pug-lint",
+=======
+		"SCSS",
+		"SideBarEnhancements",
+		"Simple JSX",
+		"SublimeLinter-contrib-pug-lint",
+		"SublimeLinter-jsxhint",
+>>>>>>> 47f6413224ae5c4261bd17e6ac396f44b79ce9a6
 		"Sync Settings",
 		"Theme - Argonaut",
 		"Theme - Praxis"
